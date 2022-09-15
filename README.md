@@ -2,7 +2,7 @@
 
 <hr>
 
-## ✅ Upto 85% Discount
+## ✅ Upto 85% Discount coupon code for GeeksforGeeks, coupon code : DEALGFG
 
 
 ✔️ [100% Working]
@@ -10,4 +10,4 @@
 
 <hr>
 
-Visit: https://couponinvent.github.io
+Visit: https://couponinvent.github.io/geeksforgeeks/geeksforgeeks-coupon-code.html
