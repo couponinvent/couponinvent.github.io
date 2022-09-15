@@ -1,0 +1,15 @@
+* Can add coupon listing on cnoffers homepage too like ineuron?
+
+* on all courses section of blogs on the bottom, referral link is getting prefrence it should be opposite, improve UX here. ohh use tabs for courses in blogs???????
+
+//TODO:
+*convert to webpack packagae modern setup
+
+*blog links pe hover pe underline animation (https://paulund.co.uk/css-animation-link-underline)
+(https://cssanimation.rocks/animating-links/)
+*fix blog.js changing view automatically bug
+
+*dark mode?
+*different images for different resolutions? responsiveness?
+
+Bye Bye!

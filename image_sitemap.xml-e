@@ -1,0 +1,661 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+	<loc>https://cnoffers.github.io/</loc>
+	<lastmod>2021-04-12T05:13:46+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/menu-hambuger.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/menu-close.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/logo-big.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/laptop_and_mobile-new.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/cn-logo-full.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/star2.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/students-image/1.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/students-image/2.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/students-image/3.jfif</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/students-image/7.jfif</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/students-image/6.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/h2gd-1-small.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/h2gd-2-small.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/h2gd-3-small.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/proof-with-highlight/cpp-with-ds-proof.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/proof-with-highlight/competitive-programming.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/proof-with-highlight/ninjas-web-developer-track.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/proof-with-highlight/ninjas-data-scientist-career-track.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/proof-with-highlight/ninja-competitive-programmer-career-track.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/proof-with-highlight/premium-full-stack-with-ds-with-highlight.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses-logo/cpp-ds-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses-logo/java-ds-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses-logo/interview-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses-logo/cp-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses-logo/python-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses-logo/aptitude-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses-logo/ml-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses-logo/react-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses-logo/web-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses-logo/data-science-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses-logo/android-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses-logo/career-track-cp-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses-logo/career-track-android-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses-logo/career-track-web-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses-logo/career-track-data-science-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses-logo/career-track-ml-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/forward-arrow-big.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/ab-2-m.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/ab-3-m.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/ab-4-m.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/ab-5-m.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/ab-6-m.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses/cpp.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses/cp.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses/ml.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses/apptitude.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses/full-stack-web.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses/android.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses/front-end.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/courses/interview.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/features/feautes-small-1.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/features/feautes-small-2.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/features/feautes-small-3.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/features/feautes-small-4.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/features/feautes-small-5.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/features/feautes-small-6.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/features/feautes-small-7.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/features/feautes-small-9.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/features/feautes-small-8.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/features/feautes-small-10.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/features/feautes-small-11.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/features/feautes-small-12.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/old-style-12-small.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/coding-ninjas-block-cover.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/cn-upskill-bg.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/12-coupon-checkout.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/old-style-12-small-new.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/12-coupon-checkout-with-highlight.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/logo-small.svg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-courses.html</loc>
+	<lastmod>2021-04-12T05:13:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/blog.html</loc>
+	<lastmod>2021-04-12T05:13:50+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/old-style-12.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/coding-ninjas-course-structure-cover.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/doubt-solving-image.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/insight-into-coding-ninjas.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/coding-ninjas-career-camp-cover.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/free-trial-image.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/download-image.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/cp-cover.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/web-dev-cover.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/c%2B%2B-cover.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/ml-cover.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/mega-thumbnail.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/correct-path.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/discount-coupon-image.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/career-camp.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/cn-add-thumb.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/cn-premium-courses-thumb.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/social-media/facebook.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/social-media/youtube.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/social-media/quora.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/social-media/instagram.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/social-media/mail.svg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/about.html</loc>
+	<lastmod>2021-04-12T05:13:50+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/about-landing-page-image-small.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/about-our-story.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/about-mission.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/about-summary.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/about-warrenty.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/about-end-note.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/about-contact.svg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/coding-ninjas-referral/coding-ninjas-referral-discount.html</loc>
+	<lastmod>2021-04-12T05:13:52+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/12-percent-discount.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/single-beginners-course-proof-12/cpp-with-ds-proof.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/career-track-discounts-proof/ninja-competitive-programmer-career-track.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/career-track-discounts-proof/ninja-web-developer-track.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/career-track-discounts-proof/ninjas-machine-learning-learning-enginerr-career-track.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-career-track.html</loc>
+	<lastmod>2021-04-12T05:13:53+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/career-track-discounts-proof/ninjas-web-developer-track.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/career-track-discounts-proof/ninjas-data-scientist-career-track.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/career-track-discounts-proof/ninja-android-developer-career-track.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-cpp-ds-course.html</loc>
+	<lastmod>2021-04-12T05:13:53+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/cpp-cover.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-competitive-programming-course.html</loc>
+	<lastmod>2021-04-12T05:13:53+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/single-beginners-course-proof-12/competitive-programming.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-machine-learning-course.html</loc>
+	<lastmod>2021-04-12T05:13:53+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/advance-discount-proof-12/machine-learning-and-deep-learning.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-full-stack-web-development-course.html</loc>
+	<lastmod>2021-04-12T05:13:53+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/advance-discount-proof-12/full-stack-development.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-android-development-course.html</loc>
+	<lastmod>2021-04-12T05:13:53+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/advance-discount-proof-12/android-development.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-android-developer-career-track.html</loc>
+	<lastmod>2021-04-12T05:13:53+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/android-cover.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-data-scientist-career-track.html</loc>
+	<lastmod>2021-04-12T05:13:55+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-premium-courses.html</loc>
+	<lastmod>2021-04-12T05:13:53+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/premium-courses-12/premium-dsa.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/premium-courses-12/premium-competitive-programming.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/premium-courses-12/premium-full-stack-with-ds.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/premium-courses-12/premium-data-science.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-java-ds-course.html</loc>
+	<lastmod>2021-04-12T05:13:54+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/java-with-ds-cover.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/single-beginners-course-proof-12/java-ds-12.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-interview-preparation-course.html</loc>
+	<lastmod>2021-04-12T05:13:54+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/interview-prep-cover.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/single-beginners-course-proof-12/interview-preperations-12.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-python-ds-course.html</loc>
+	<lastmod>2021-04-12T05:13:54+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/python-ds-cover.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/single-beginners-course-proof-12/python-ds-12.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-aptitude-preparation-course.html</loc>
+	<lastmod>2021-04-12T05:13:54+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/aptitude-preparation-cover.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/single-beginners-course-proof-12/aptitude-preparartion.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-front-end-development-with-react.html</loc>
+	<lastmod>2021-04-12T05:13:54+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-data-science-course.html</loc>
+	<lastmod>2021-04-12T05:13:54+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/data-science-cover.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/advance-discount-proof-12/data-science-and-machine-learning.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-competitive-programmer-career-track.html</loc>
+	<lastmod>2021-04-12T05:13:54+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-web-developer-nodejs-react-career-track.html</loc>
+	<lastmod>2021-04-12T05:13:55+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-machine-learning-engineer-career-track.html</loc>
+	<lastmod>2021-04-12T05:13:55+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-premium-android-app-development.html</loc>
+	<lastmod>2021-04-12T05:13:55+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/premium-courses-12/premium-android-development.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-premium-machine-learning-course.html</loc>
+	<lastmod>2021-04-12T05:13:55+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/premium-courses-12/premium-machine-learning.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-premium-data-science-course.html</loc>
+	<lastmod>2021-04-12T05:13:55+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-premium-full-stack-web-development-course.html</loc>
+	<lastmod>2021-04-12T05:13:55+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-premium-data-structures-and-algorithms-course.html</loc>
+	<lastmod>2021-04-12T05:13:55+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/dsa-cover.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-premium-competitive-programming-course.html</loc>
+	<lastmod>2021-04-12T05:13:55+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/blog/coding-ninjas-affiliate-referral-discounts.html</loc>
+	<lastmod>2021-04-12T05:13:55+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/12-percent-discount-crop.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/blog/is-coding-ninjas-worth-the-money-they-charge-for-online-course.html</loc>
+	<lastmod>2021-04-12T05:13:56+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/cp-certificate.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/doubt-raised.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/cp-course-topics.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/zco-result.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/codechef-contest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/jvphobia-problem.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/cn-jobs.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/taship-email.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/blog/what-is-the-method-to-get-a-coding-ninjas-online-course-for-free.html</loc>
+	<lastmod>2021-04-12T05:13:56+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/cn-free-trial-thumb.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/blog/what-is-your-review-of-coding-ninjas.html</loc>
+	<lastmod>2021-04-12T05:13:56+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/blog/how-do-I-download-videos-from-an-online-coding-ninjas-course.html</loc>
+	<lastmod>2021-04-12T05:13:56+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/coding_ninjas_illegal_download_notice_mail.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/blog/coding-ninjas-competitive-programming-review.html</loc>
+	<lastmod>2021-04-12T05:13:56+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/blog/coding-ninjas-web-development-with-node-js-review.html</loc>
+	<lastmod>2021-04-12T05:13:56+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/blog/how-is-the-online-course-cpp-at-coding-ninjas.html</loc>
+	<lastmod>2021-04-12T05:13:56+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/blog/coding-ninjas-machine-learning-review.html</loc>
+	<lastmod>2021-04-12T05:13:56+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/ml-project.jfif</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/blog/coding-ninjas-mega-or-telegram-link.html</loc>
+	<lastmod>2021-04-12T05:13:56+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/mega_copywrite_violation.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/blog/coding-ninjas-vs-coding-blocks-for-online-course.html</loc>
+	<lastmod>2021-04-12T05:13:56+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/coding-ninjas-referral/coding-ninjas-referral-coupon-code.html</loc>
+	<lastmod>2021-04-12T05:13:56+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/courses/coding-ninjas-career-camp.html</loc>
+	<lastmod>2021-04-12T05:13:56+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/single-beginners-course-proof-12/interview-aptitude-preparation.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/blog/does-coding-ninjas-provides-any-job-opportunities.html</loc>
+	<lastmod>2021-04-12T05:13:56+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://cnoffers.github.io/assets/blog/taship-certificate.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/blog/What-is-the-syllabus-of-c%2B%2B-course-in-coding-ninjas.html</loc>
+	<lastmod>2021-04-12T05:13:56+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cnoffers.github.io/sitemap/sitemap.html</loc>
+	<lastmod>2021-04-12T05:13:56+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>

@@ -1,0 +1,5 @@
+Sitemap: https://couponinvent.github.io/
+
+User-agent: *
+Disallow: /test/*
+
